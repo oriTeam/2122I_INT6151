@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Wind,PlayTennis
+Sunny,Hot,High,Low,No
+Sunny,Hot,High,High,No
+Overcast,Hot,High,Low,Yes
+Rainy,Mild,High,Low,Yes
+Rainy,Cool,Normal,Low,Yes
+Rainy,Cool,Normal,High,No
+Overcast,Cool,Normal,High,Yes
+Sunny,Mild,High,Low,No
+Sunny,Cool,Normal,Low,Yes
+Rainy,Mild,Normal,Low,Yes
+Sunny,Mild,Normal,High,Yes
+Overcast,Mild,High,High,Yes
+Overcast,Hot,Normal,Low,Yes
+Rainy,Mild,High,High,No
